@@ -10,4 +10,5 @@ Here are links used to create this material:
 - [Example Mapping: Involving stakeholders in defining acceptance criteria](https://openpracticelibrary.com/practice/example-mapping/#:~:text=Example%20mapping%20is%20a%20technique,bad%20abstraction%20of%20a%20concept.)
 - [Cucumber Software](https://cucumber.io/)
 - [Cucumber: Example Mapping](https://cucumber.io/docs/bdd/example-mapping/)
-- 
+
+- [KCDC - Kansas City Developers Conference](https://www.kcdc.info/)
